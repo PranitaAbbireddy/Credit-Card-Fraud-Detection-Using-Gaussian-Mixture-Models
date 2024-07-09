@@ -1,10 +1,10 @@
-## Credit Card Fraud Detection Using Gaussian Mixture Models
+# Credit Card Fraud Detection Using Gaussian Mixture Models
 This project aims to detect fraudulent transactions in a credit card dataset using Gaussian Mixture Models (GMM). The dataset used in this project contains anonymized credit card transactions labeled as fraudulent or legitimate.
 
-# Project Overview
+## Project Overview
 Credit card fraud is a significant issue for financial institutions and consumers. Detecting fraudulent transactions quickly and accurately is crucial for minimizing economic losses and protecting consumers. In this project, we employ a machine learning approach using Gaussian Mixture Models to identify fraudulent transactions.
 
-# Dataset
+## Dataset
 The dataset used in this project is the Credit Card Fraud Detection dataset, which includes the following features:
 
 - Time: The time elapsed between this transaction and the first transaction in the dataset.
